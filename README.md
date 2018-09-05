@@ -83,7 +83,7 @@ sample genesis hash: 9c661341062791ebc601c5082842642df88f6462f6378a51cc5ec0a5e4c
 
 type in debug command: getblock <paste your genesis hash here>
 
-sample command: getblock 7f1ed91786d6a81cd2a6c4f32b3a3b1cec0f7f14ac388bc8c72d8dcfc415ff28
+sample command: getblock 9c661341062791ebc601c5082842642df88f6462f6378a51cc5ec0a5e4c37060
 
 sample tx: 7f1ed91786d6a81cd2a6c4f32b3a3b1cec0f7f14ac388bc8c72d8dcfc415ff28
 

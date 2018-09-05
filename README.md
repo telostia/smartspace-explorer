@@ -93,7 +93,7 @@ copy tx in table under **genesis_tx**.
   "genesis_block": "9c661341062791ebc601c5082842642df88f6462f6378a51cc5ec0a5e4c37060",
 
 ### Run the wallet
-run command in linux: mymnd -reindex -txindex
+run command in linux: smrt -reindex -txindex
 
 ### To use forever to start (run in directory of explorer):
 

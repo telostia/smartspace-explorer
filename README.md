@@ -1,4 +1,4 @@
-## MyMN official explorer
+## Smrtspace explorer
 
 ## Explorer guide
 ## ===============
@@ -39,7 +39,7 @@ mongo
 ## Install Explorer
 ## ================
 
-* git clone https://github.com/MyMNProject/mymn-explorer.git explorer
+* git clone https://github.com/telostia/smartspace-explorer.git explorer
 
 * cd explorer && npm install --production
 
